@@ -1,0 +1,2 @@
+- [x] Update file paths in compare_audio.py to load "audio1.wav.mp3" and "audio2.wav.mp3"
+- [ ] Test the script to ensure it runs without errors
